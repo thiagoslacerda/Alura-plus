@@ -1,2 +1,2 @@
 # Alura-plus
-Second dev project
+Praticando HTML5 e CSS3 no Alura
